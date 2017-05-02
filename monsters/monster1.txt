@@ -1,1 +1,2 @@
 monster1
+hp: 20
