@@ -1,0 +1,2 @@
+monster2
+hp: 20

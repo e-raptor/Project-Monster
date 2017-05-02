@@ -1,2 +1,2 @@
 monster1
-monster2
+hp: 20

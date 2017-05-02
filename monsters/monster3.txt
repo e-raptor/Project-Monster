@@ -1,0 +1,2 @@
+monster3
+hp: 20

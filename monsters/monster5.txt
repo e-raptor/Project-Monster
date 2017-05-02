@@ -1,0 +1,2 @@
+monster5
+hp: 30
